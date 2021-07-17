@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm So Myoung Lee! 🌼🌻
 
 <!--
 **LeeSoMyoung/LeeSoMyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![이소명's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSoMyoung&show_icons=true&theme=radical)
+
+## 🌼 me 🌻
+<a href="mailto:so4644009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=red"/></a>
+
+## 🔥 Stack
