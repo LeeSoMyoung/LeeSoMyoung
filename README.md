@@ -23,16 +23,23 @@ Here are some ideas to get you started:
 </div>
 
 # <div align="center"> 🌼 It's me! 🌻 </div>
-<div align="center"> <a href="mailto:so4644009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=red"/></a></div>
+<div align="center">
+  <a href="mailto:so4644009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=red"/></a>
+  <a href="https://velog.io/@leesomyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-184D66?style=flat-square&logo=VectorLogoZone&logoColor=mint"/></a>
+</div>
 
-# <div align="center"> 🔥 Stack </div>
+# <div align="center">🛠 Tech Stack ⚒</div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
+</div>
 
 # <div align="center">😎 노동요 </div>
 
-<div align="center">
 
-  [![Spotify](https://spotify-now-playing-leesomyoung.vercel.app/api/spotify)](https://open.spotify.com/user/31222yrnhakeyiqaz4t72j7ieiim)
-
-</div>
