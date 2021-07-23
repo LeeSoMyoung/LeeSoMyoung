@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 </div>
 
-# <div align="center">😎 노동요 </div>
+# <div align="center">😎 노동요 🔥</div>
 
 <div align="center">
 
-![SoMyoung's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31222yrnhakeyiqaz4t72j7ieiim&count=10)            
+![SoMyoung's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31222yrnhakeyiqaz4t72j7ieiim&count=7)            
 </div>
