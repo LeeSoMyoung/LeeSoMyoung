@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@leesomyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-184D66?style=flat-square&logo=VectorLogoZone&logoColor=mint"/></a>
 </div>
 
-# <div align="center"✨ Tech Stack ✨</div>
+# <div align="center">✨ Tech Stack ✨</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
