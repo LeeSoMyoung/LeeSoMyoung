@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 # <div align="center"> 🌼 It's me! 🌻 </div>
 <div align="center">
   <a href="mailto:so4644009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@leesomyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-184D66?style=flat-square&logo=VectorLogoZone&logoColor=mint"/></a>
+<!--  
+<a href="https://velog.io/@leesomyoung" target="_blank"><img src="https://img.shields.io/badge/Velog-184D66?style=flat-square&logo=VectorLogoZone&logoColor=mint"/></a>
 </div>
-
+-->
+  
 # <div align="center">✨ Tech Stack ✨</div>
 
 <div align="center">
