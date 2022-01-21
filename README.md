@@ -1,4 +1,4 @@
-# <div align="center"> Hi! I'm So Myoung Lee ! 🌼🌻 </div>
+# <div align="center"> 🌼Lee So Myoung🌻 </div>
 
 <!--
 **LeeSoMyoung/LeeSoMyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,32 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-![이소명's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSoMyoung&show_icons=true&theme=radical) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=so4644009)](https://solved.ac/so4644009/)  
+![이소명's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSoMyoung&show_icons=true&theme=radical)  
+
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSoMyoung)](https://github.com/anuraghazra/github-readme-stats)
+  
+  # 🏫 School 🏫
+  **가톨릭대학교 컴퓨터정보공학부** The Catholic University of Korea Computer Science Information Engineering - 2018. 03 ~ 2022. 02
+  
+  
+  # 🏆 Award 🏆
+  |대회|수상 일시|
+  |---|---|
+  |가톨릭대학교 창업경진 대회 장려상|2020-11|
+  |가톨릭대학교 프로그래밍 대회 금상|2019-09|
+  
+  
+  # 👩‍💻 Activity 👩‍
+  |활동명|활동 기간|
+  |---|---|
+  |가톨릭대학교 SOS Class 객체지향프로그래밍 튜터 활동|2021 1학기|
+  |가톨릭대학교 알고리즘 동아리 ALCUK|2019|
+  
+
 </div>
 
-# <div align="center"> 🌼 It's me! 🌻 </div>
+# <div align="center">📧 Contact 📧</div>
 <div align="center">
   <a href="mailto:so4644009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--  
@@ -43,11 +63,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSoMyoung)](https://github.com/anuraghazra/github-readme-stats)
 
-# <div align="center">😎 노동요 🔥</div>
-
-<div align="center">
-
-![SoMyoung's Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31222yrnhakeyiqaz4t72j7ieiim&count=7)            
 </div>
