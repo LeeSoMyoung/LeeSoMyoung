@@ -1,20 +1,3 @@
-# <div align="center"> 🌼Lee So Myoung🌻 </div>
-
-<!--
-**LeeSoMyoung/LeeSoMyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center"> 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=so4644009)](https://solved.ac/so4644009/)  
@@ -26,7 +9,7 @@ Here are some ideas to get you started:
   **가톨릭대학교 컴퓨터정보공학부** The Catholic University of Korea Computer Science Information Engineering - 2018. 03 ~ 2022. 02
   
   
-  # 🏆 Award 🏆
+  # 🏆 Awards 🏆
   |대회|수상 일시|
   |---|---|
   |가톨릭대학교 창업경진 대회 장려상|2020-11|
