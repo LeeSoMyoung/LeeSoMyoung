@@ -24,10 +24,8 @@
   |42Seoul|La Piscine|2022.04.11 ~ 2022.05.09|
   
   # 📚 Certification
-  |자격증명|발급기관|
-  |---|---|
-  |정보처리기사|한국산업인력공단|
-
+ **정보처리기사** 한국산업인력공단 - 2022. 06. 17
+  
 </div>
 
 # <div align="center">📧 Contact 📧</div>
